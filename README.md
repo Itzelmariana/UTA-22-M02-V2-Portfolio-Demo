@@ -10,6 +10,6 @@ The acceptance criteria:
 - It must be a responsibe website.
 
 Mockup picture![Website Picture](docs/mockup1.png)
-![Website Picture](docs/mockup1.png)
+![Website Picture](docs/mockup2.png)
 
 You can find my website deployed at [link](https://itzelmariana.github.io/UTA-22-M02-V2-Portfolio-Demo/).
