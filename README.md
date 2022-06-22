@@ -1,14 +1,15 @@
-# Module 01 Mini-Project: Landing Page
+# Module 02 Challenge. Profesional Portafolio Demo
 
-This project requires use of HTML and CSS for a single webpage that collects a visitor's contact information.
+This is a demo portfolio of work samples.
 
 The acceptance criteria:
 
-- Includes semantic HTML elemnts.
-- Uses universal, element, and class selectors in CSS.
-- Uses at least three colors and a single font family in the design.
-- It has at least two heading elements, alt attribute, input elements, and a form that includes a send button.
-- Header must be fixed to the top of the page on scroll.
-- Navigation bar must contain links and contact link should be redirected to contact form when clicked.
+- Displays developer's name, a recent photo or avatar, and links in navigation bar.
+- Links in navigation must work, as well as the contact links.
+- Uses one page website.
+- It must be a responsibe website.
 
-You can find my website deployed at [link](https://itzelmariana.github.io/UTA-22-M01-Landing-Page/).
+Mockup picture![Website Picture](docs/mockup1.png)
+![Website Picture](docs/mockup1.png)
+
+You can find my website deployed at [link](https://itzelmariana.github.io/UTA-22-M02-V2-Portfolio-Demo/).
