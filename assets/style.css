@@ -22,7 +22,8 @@ header {
   height: 100%;
 }
 /* title in header style */
-h1 {
+.container {
+  margin-left: 115px;
 }
 /* nav in header style */
 nav {
